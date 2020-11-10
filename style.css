@@ -2,7 +2,7 @@
 
 h1 {
   color: green;
-font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .flex-container {
@@ -16,5 +16,5 @@ font-family: 'Open Sans', sans-serif;
   align-content: space-between;
 }
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
