@@ -2,4 +2,19 @@
 
 h1 {
   color: green;
+font-family: 'Open Sans', sans-serif;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+.flex-container {
+  display: flex;
+  height: 600px;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
 }
